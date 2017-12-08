@@ -1,5 +1,4 @@
 
-//https://pqrs.org/osx/karabiner/complex_modifications//json//fn_plus_plsemicolonquote_to_arrow_keys.json
 {
     "title": "Change command + o/l/k/; to arrow keys",
     "rules": [
